@@ -1,0 +1,10 @@
+*.ink
+*.mpp
+~*
+*.db
+*.tmp
+*.lbr
+*.bak
+components/*
+config/*
+speex_codec/debug/bin/speex_codec/*
