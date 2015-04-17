@@ -189,9 +189,9 @@
     <File name="speex/libsrc/filterbank.h" path="speex/libspeex/filterbank.h" type="1"/>
     <File name="speex/libsrc/ltp.h" path="speex/libspeex/ltp.h" type="1"/>
     <File name="speex/libsrc/sb_celp.c" path="speex/libspeex/sb_celp.c" type="1"/>
+    <File name="speex/libsrc/nb_celp.h" path="speex/libspeex/nb_celp.h" type="1"/>
     <File name="speex/libsrc/gain_table.c" path="speex/libspeex/gain_table.c" type="1"/>
     <File name="speex/libsrc/high_lsp_tables.c" path="speex/libspeex/high_lsp_tables.c" type="1"/>
-    <File name="speex/libsrc/nb_celp.h" path="speex/libspeex/nb_celp.h" type="1"/>
     <File name="speex/libsrc/pseudofloat.h" path="speex/libspeex/pseudofloat.h" type="1"/>
     <File name="speex/libsrc/cb_search.h" path="speex/libspeex/cb_search.h" type="1"/>
     <File name="speex/libsrc/kiss_fftr.c" path="speex/libspeex/kiss_fftr.c" type="1"/>
